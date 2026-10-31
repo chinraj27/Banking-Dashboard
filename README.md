@@ -157,4 +157,9 @@ banking-dashboard/
 ```
 
 ##Screenshots
-<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/64d7316b-5e4b-4fd3-ab15-d2e8112a5530" />
+<img width="1920" height="923" alt="LOGIN PAGE" src="https://github.com/user-attachments/assets/b4e69934-cfcf-4a40-a09d-a1a708454e2c" />
+<img width="1920" height="922" alt="HOMEPAGE" src="https://github.com/user-attachments/assets/d876d6cf-2bbb-4b2c-91d1-2470446b1904" />
+<img width="1920" height="923" alt="DASHBOARD" src="https://github.com/user-attachments/assets/88148f08-3a63-47b1-80f2-bbff0afc7207" />
+
+
+
