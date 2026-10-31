@@ -155,3 +155,6 @@ banking-dashboard/
 ├── docker-compose.yml
 └── .env.example
 ```
+
+##Screenshots
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/64d7316b-5e4b-4fd3-ab15-d2e8112a5530" />
